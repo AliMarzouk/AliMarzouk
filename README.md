@@ -21,10 +21,9 @@ _Some of my work includes:_
 
 🧰 Toolbox
 
-<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/62c968bf-3eda-4a18-806f-7f0490df5f83" alt="Apache Spark" width="50" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/62c968bf-3eda-4a18-806f-7f0490df5f83" alt="Apache Spark" width="50" height="50"/>  
 <img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/07d7e3e6-d6db-442e-8235-b3e78b0cf416" alt="Python" width="50" height="50"/>   
-<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/df48a980-d5e3-4b42-8cae-fc082a0aed09
-" alt="SQL" width="50" height="50"/>   
+<img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/df48a980-d5e3-4b42-8cae-fc082a0aed09" alt="SQL" width="50" height="50"/>   
 <img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/60c989da-d410-48b9-adea-bd705c87aa0a" alt="Salesforce" width="50" height="50"/>   
 <img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/1fa3253e-3e26-4a34-99f8-d91843ced449" alt="JavaScript" width="50" height="50"/>   
 <img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/1cbf0832-79af-441a-84b3-113ee725788f" alt="Typescript" width="50" height="50"/>   
@@ -42,4 +41,5 @@ _Some of my work includes:_
 <a target="_blank" href="https://medium.com/@ali.marzouk2/end-to-end-data-engineering-openaq-api-to-real-time-dashboards-using-spark-and-airflow-59e03f6d7418">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali.marzouk2/1" alt="Medium article Paris AQ"> 
 </a>
+
 ---
