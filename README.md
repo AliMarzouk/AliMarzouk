@@ -36,10 +36,10 @@ _Some of my work includes:_
 ## <img src="https://github.com/nour-karoui/mongoose-soft-delete/assets/47257753/b1d4391e-96eb-467d-a44b-76caae91e2ba" width="70px"> Check my recent Articles on Medium!<br>
 
 <a target="_blank" href="https://medium.com/@ali.marzouk2/developing-in-the-salesforce-ecosystem-how-to-run-integration-tests-on-scratch-orgs-in-a-ci-3a761155e479">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali.marzouk2/0" alt="Medium article salesforce scratch org"> 
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali.marzouk2/1" alt="Medium article salesforce scratch org"> 
 </a>
 <a target="_blank" href="https://medium.com/@ali.marzouk2/end-to-end-data-engineering-openaq-api-to-real-time-dashboards-using-spark-and-airflow-59e03f6d7418">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali.marzouk2/1" alt="Medium article Paris AQ"> 
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali.marzouk2/0" alt="Medium article Paris AQ"> 
 </a>
 
 ---
